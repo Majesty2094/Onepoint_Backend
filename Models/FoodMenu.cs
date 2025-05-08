@@ -2,7 +2,7 @@ namespace Onepoint_Backend.Models
 {
     public class FoodMenu
     {
-        public Guid Id {get; set; } 
+        public int Id {get; set; } 
 
         public string ItemName {get; set; }
 

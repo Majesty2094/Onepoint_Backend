@@ -2,7 +2,7 @@ namespace Onepoint_Backend.Models
 {
     public class User
     {
-        public Guid Id { get; set; } 
+        public int Id { get; set; } 
         public string? EmployeeID { get; set; }
 
         public required string Email { get; set; }

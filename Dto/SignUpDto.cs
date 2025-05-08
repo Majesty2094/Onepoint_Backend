@@ -11,5 +11,7 @@ namespace Onepoint_Backend.Dto
         public required string FullName {get; set; } 
 
         public string Password {get; set;}
+
+        public string ccc {get; set;}
     }
 }

@@ -2,9 +2,9 @@ namespace Onepoint_Backend.Models
 {
     public class Notification
     {
-        public Guid Id { get; set; }
+        public int Id { get; set; }
 
-        public string EmployeeID {get; set; }
+        public string? EmployeeID {get; set; }
 
         public string Title { get; set; }
 

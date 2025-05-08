@@ -3,7 +3,7 @@ namespace Onepoint_Backend.Models
     public class Attendance
     {
 
-     public Guid Id { get; set; }
+     public int Id { get; set; }
 
      public string? EmployeeID {get; set;}
 
