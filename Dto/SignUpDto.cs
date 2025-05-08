@@ -12,6 +12,6 @@ namespace Onepoint_Backend.Dto
 
         public string Password {get; set;}
 
-        public string cc {get; set;}
+        public string c {get; set;}
     }
 }
